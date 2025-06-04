@@ -1,9 +1,8 @@
-import introToProblemSolving.arrays.TwoSum;
 import introToProblemSolving.string.ToggleChar;
 
 import java.util.Scanner;
 
-public class Main {
+public class FilterEvenNumbers {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

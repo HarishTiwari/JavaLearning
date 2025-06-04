@@ -4,89 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35e5f23e-08ff-4882-9d4c-2a54812b8d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemSolving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewPractice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/SingletonClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/StaticIntialise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/abstractDemo/Daughter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/abstractDemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/abstractDemo/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/abstractDemo/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/arrays/CountGreaterThanItself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/arrays/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/arrays/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/arrays/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/clone/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/clone/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/compairingObject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/compairingObject/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/enumsPackage/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/exceptionHandling/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/exceptionHandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/generics/CustomArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/generics/CustomGenArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/generics/WildCardArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/hashMap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/inheritance/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/inheritance/BoxChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/inheritance/BoxGrandChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/interfacePackage/Brake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/interfacePackage/CDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/interfacePackage/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/interfacePackage/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/interfacePackage/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/interfacePackage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/interfacePackage/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/interfacePackage/NiceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/interfacePackage/PowerEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/java8/ChildFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/java8/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/java8/FunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/java8/LambdaExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/java8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/java8/SoftwareEngineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/java8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/lambdaFunction/LambdaFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/lambdaFunction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/linkedList/LinkedListFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/linkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/matrix/MatrixImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/multithreading/AtomicNumClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/multithreading/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/multithreading/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/multithreading/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/multithreading/ThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/multithreading/ThreadTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/multithreading/VolatileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/polymorphism/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/polymorphism/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/producerConsumer/BlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/recursion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/singleton/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/singleton/TVSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/singleton/TVSetThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/stack/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/string/ToggleChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/trees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introToProblemSolving/trees/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/DefaultKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8problem/FilterEvenNumbers.java" afterDir="false" />
+    <list default="true" id="35e5f23e-08ff-4882-9d4c-2a54812b8d58" name="Changes" comment="Add initial implementation of various classes and interfaces for problem solving">
+      <change afterPath="$PROJECT_DIR$/src/java8problem/CountElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8problem/DistinctElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8problem/FindMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8problem/HashMapExplain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8problem/ListStreamQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8problem/ListofNamestoUppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8problem/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8problem/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8problem/reduceSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FilterEvenNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,20 +47,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Basic.executor": "Run",
+    "Application.CountElements.executor": "Run",
     "Application.DefaultKeyword (1).executor": "Run",
     "Application.DefaultKeyword.executor": "Run",
     "Application.DemoAtomic.executor": "Run",
+    "Application.DistinctElements.executor": "Run",
     "Application.Driver.executor": "Run",
     "Application.FilterEvenNumbers.executor": "Run",
+    "Application.FindMaximum.executor": "Run",
     "Application.ForEach.executor": "Run",
     "Application.LambdaDemo.executor": "Run",
     "Application.LinkedListFunctions.executor": "Run",
+    "Application.ListStreamQuestion.executor": "Run",
+    "Application.ListofNamestoUppercase.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MatrixImplementation.executor": "Run",
+    "Application.SortList.executor": "Run",
     "Application.StaticIntialise.executor": "Run",
     "Application.Streams.executor": "Run",
+    "Application.SumOfNumbers.executor": "Run",
+    "Application.TEst1.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.ThreadTester.executor": "Run",
     "Application.VolatileExample (1).executor": "Run",
     "Application.VolatileExample (2).executor": "Run",
@@ -146,33 +84,25 @@
     "Application.introToProblemSolving.polymorphism.Main.executor": "Run",
     "Application.introToProblemSolving.recursion.Main.executor": "Run",
     "Application.introToProblemSolving.trees.Main.executor": "Run",
+    "Application.reduceSum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/htiwari/Downloads/1_Tool/ui-integration/ui-integration/ui-integration/pom.xml",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\htiwari\Downloads\1_Project\1_BlogApp\ProblemSolving\src\java8problem" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="introToProblemSolving.singleton" />
       <recent name="introToProblemSolving.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FilterEvenNumbers">
-    <configuration name="DefaultKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.DefaultKeyword" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ListStreamQuestion">
     <configuration name="DefaultKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8.DefaultKeyword" />
       <module name="ProblemSolving" />
@@ -186,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8problem.FilterEvenNumbers" />
+    <configuration name="DistinctElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8problem.DistinctElements" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.ForEach" />
+    <configuration name="ListStreamQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8problem.ListStreamQuestion" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -212,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.LambdaDemo" />
+    <configuration name="TEst1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8problem.TEst1" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -225,8 +155,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.Streams" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8problem.Test" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reduceSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8problem.reduceSum" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -240,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FilterEvenNumbers" />
-        <item itemvalue="Application.Streams" />
-        <item itemvalue="Application.LambdaDemo" />
-        <item itemvalue="Application.ForEach" />
-        <item itemvalue="Application.DefaultKeyword" />
+        <item itemvalue="Application.ListStreamQuestion" />
+        <item itemvalue="Application.TEst1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.reduceSum" />
+        <item itemvalue="Application.DistinctElements" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +200,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730298939235</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add initial implementation of various classes and interfaces for problem solving">
+      <option name="closed" value="true" />
+      <created>1748448678047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748448678047</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add initial implementation of various classes and interfaces for problem solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial implementation of various classes and interfaces for problem solving" />
   </component>
 </project>
