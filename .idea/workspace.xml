@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35e5f23e-08ff-4882-9d4c-2a54812b8d58" name="Changes" comment="Add initial implementation of various classes and interfaces for problem solving">
-      <change afterPath="$PROJECT_DIR$/src/java8problem/CountElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8problem/DistinctElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8problem/FindMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8problem/HashMapExplain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8problem/ListStreamQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8problem/ListofNamestoUppercase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8problem/SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8problem/SumOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8problem/reduceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lruCache/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lruCache/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lruCache/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FilterEvenNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HarishTiwari"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HarishTiwari/JavaLearning.git",
+    "accountId": "cda34cbe-fb2a-49e2-90e0-442e27b7f355"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -102,7 +107,7 @@
       <recent name="introToProblemSolving.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListStreamQuestion">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DefaultKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8.DefaultKeyword" />
       <module name="ProblemSolving" />
@@ -116,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistinctElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8problem.DistinctElements" />
+    <configuration name="ListStreamQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8problem.ListStreamQuestion" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
@@ -129,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListStreamQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8problem.ListStreamQuestion" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lruCache.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8problem.*" />
+          <option name="PATTERN" value="lruCache.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ListStreamQuestion" />
         <item itemvalue="Application.TEst1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.reduceSum" />
-        <item itemvalue="Application.DistinctElements" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +215,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add initial implementation of various classes and interfaces for problem solving" />
