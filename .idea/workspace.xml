@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35e5f23e-08ff-4882-9d4c-2a54812b8d58" name="Changes" comment="Add initial implementation of various classes and interfaces for problem solving">
-      <change afterPath="$PROJECT_DIR$/src/lruCache/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lruCache/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lruCache/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emp/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emp/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emp/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subarrays/SubarraysImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/RollUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,9 +74,12 @@
     "Application.Main (2).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MatrixImplementation.executor": "Run",
+    "Application.Palindrom.executor": "Run",
     "Application.SortList.executor": "Run",
     "Application.StaticIntialise.executor": "Run",
+    "Application.StreamExample.executor": "Run",
     "Application.Streams.executor": "Run",
+    "Application.SubarraysImplementation.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
     "Application.TEst1.executor": "Run",
     "Application.Test.executor": "Run",
@@ -121,19 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListStreamQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8problem.ListStreamQuestion" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lruCache.Main" />
       <module name="ProblemSolving" />
@@ -147,12 +142,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEst1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8problem.TEst1" />
+    <configuration name="Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="emp.Palindrom" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8problem.*" />
+          <option name="PATTERN" value="emp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="emp.StreamExample" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="emp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubarraysImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="subarrays.SubarraysImplementation" />
+      <module name="ProblemSolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="subarrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,24 +182,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8problem.Test" />
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="reduceSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8problem.reduceSum" />
-      <module name="ProblemSolving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8problem.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,10 +197,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ListStreamQuestion" />
-        <item itemvalue="Application.TEst1" />
+        <item itemvalue="Application.SubarraysImplementation" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.reduceSum" />
+        <item itemvalue="Application.StreamExample" />
+        <item itemvalue="Application.Palindrom" />
       </list>
     </recent_temporary>
   </component>
