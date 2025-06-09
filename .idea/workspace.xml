@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35e5f23e-08ff-4882-9d4c-2a54812b8d58" name="Changes" comment="Add initial implementation of various classes and interfaces for problem solving">
-      <change afterPath="$PROJECT_DIR$/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/emp/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/emp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/emp/Palindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/emp/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subarrays/SubarraysImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/RollUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lruCache/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lruCache/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subarrays/SubarraysImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subarrays/SubarraysImplementation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HarishTiwari"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HarishTiwari&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HarishTiwari/JavaLearning.git",
-    "accountId": "cda34cbe-fb2a-49e2-90e0-442e27b7f355"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HarishTiwari/JavaLearning.git&quot;,
+    &quot;accountId&quot;: &quot;cda34cbe-fb2a-49e2-90e0-442e27b7f355&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -54,58 +48,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Basic.executor": "Run",
-    "Application.CountElements.executor": "Run",
-    "Application.DefaultKeyword (1).executor": "Run",
-    "Application.DefaultKeyword.executor": "Run",
-    "Application.DemoAtomic.executor": "Run",
-    "Application.DistinctElements.executor": "Run",
-    "Application.Driver.executor": "Run",
-    "Application.FilterEvenNumbers.executor": "Run",
-    "Application.FindMaximum.executor": "Run",
-    "Application.ForEach.executor": "Run",
-    "Application.LambdaDemo.executor": "Run",
-    "Application.LinkedListFunctions.executor": "Run",
-    "Application.ListStreamQuestion.executor": "Run",
-    "Application.ListofNamestoUppercase.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main (2).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MatrixImplementation.executor": "Run",
-    "Application.Palindrom.executor": "Run",
-    "Application.SortList.executor": "Run",
-    "Application.StaticIntialise.executor": "Run",
-    "Application.StreamExample.executor": "Run",
-    "Application.Streams.executor": "Run",
-    "Application.SubarraysImplementation.executor": "Run",
-    "Application.SumOfNumbers.executor": "Run",
-    "Application.TEst1.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.ThreadTester.executor": "Run",
-    "Application.VolatileExample (1).executor": "Run",
-    "Application.VolatileExample (2).executor": "Run",
-    "Application.VolatileExample.executor": "Run",
-    "Application.introToProblemSolving.abstractDemo.Main.executor": "Run",
-    "Application.introToProblemSolving.clone.Main.executor": "Run",
-    "Application.introToProblemSolving.exceptionHandling.Main.executor": "Run",
-    "Application.introToProblemSolving.generics.Main.executor": "Run",
-    "Application.introToProblemSolving.hashMap.Main.executor": "Run",
-    "Application.introToProblemSolving.inheritance.Main.executor": "Run",
-    "Application.introToProblemSolving.interfacePackage.Main.executor": "Run",
-    "Application.introToProblemSolving.polymorphism.Main.executor": "Run",
-    "Application.introToProblemSolving.recursion.Main.executor": "Run",
-    "Application.introToProblemSolving.trees.Main.executor": "Run",
-    "Application.reduceSum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/htiwari/Downloads/1_Tool/ui-integration/ui-integration/ui-integration/pom.xml",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefaultKeyword (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefaultKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoAtomic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistinctElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FilterEvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMaximum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListStreamQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListofNamestoUppercase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixImplementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticIntialise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubarraysImplementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TEst1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileExample (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileExample (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.abstractDemo.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.clone.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.exceptionHandling.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.generics.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.hashMap.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.inheritance.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.interfacePackage.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.polymorphism.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.recursion.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.introToProblemSolving.trees.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reduceSum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/htiwari/Downloads/1_Tool/ui-integration/ui-integration/ui-integration/pom.xml&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\htiwari\Downloads\1_Project\1_BlogApp\ProblemSolving\src\java8problem" />

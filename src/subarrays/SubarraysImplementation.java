@@ -1,5 +1,7 @@
 package subarrays;
 
+import java.util.HashMap;
+
 public class SubarraysImplementation {
 
     public static void main(String[] args) {
@@ -65,5 +67,41 @@ public class SubarraysImplementation {
             }
         }
 
+    }
+
+    public int subArraySum(int[] arr , int k){
+        // Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
+        HashMap<Integer,Integer> map = new HashMap<>();
+
+        map.put(0,1);
+        int prefixSum = 0 ;
+
+        int count = 0 ;
+
+        for(int num : arr){
+            prefixSum += num;
+
+            int target = prefixSum - k;
+
+            if(map.containsKey(target)){
+                count += map.get(target);
+            }
+
+            map.put(prefixSum,map.getOrDefault(prefixSum,0) + 1);
+        }
+
+        return count;
+    }
+
+    public int sumOfAllSubArrays(int[] arr){
+        int sum = 0;
+
+        for(int i = 0 ; i < arr.length ; i++){
+            int occ = (i+1) * (arr.length - i);
+
+            sum += arr[i] * occ;
+        }
+
+        return sum;
     }
 }
