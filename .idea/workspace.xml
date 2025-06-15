@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35e5f23e-08ff-4882-9d4c-2a54812b8d58" name="Changes" comment="Add initial implementation of various classes and interfaces for problem solving">
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategyPattern/AttackFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategyPattern/AttackPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategyPattern/ChokSlam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategyPattern/GameCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategyPattern/Kick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategyPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategyPattern/Punch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/strategyPattern/Sword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/classesAndObject/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/classesAndObject/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/interfaces/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/interfaces/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/interfaces/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/transientAndVolatile/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/transientAndVolatile/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/DoubleCheckedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/EagerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/ThreadSafeSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testPackage/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +69,7 @@
     "Application.ListofNamestoUppercase.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "Application.MainClass.executor": "Run",
     "Application.MatrixImplementation.executor": "Run",
     "Application.Palindrom.executor": "Run",
@@ -131,13 +117,13 @@
       <recent name="introToProblemSolving.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.designPatterns.strategyPattern.Main">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.classesAndObject.MainClass" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testPackage.Main" />
       <module name="ProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.classesAndObject.*" />
+          <option name="PATTERN" value="testPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.designPatterns.strategyPattern.Main" />
         <item itemvalue="Application.transientAndVolatile.Main" />
         <item itemvalue="Application.oops.inheritance.Main" />
         <item itemvalue="Application.oops.interfaces.Main" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -241,5 +227,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add initial implementation of various classes and interfaces for problem solving" />
     <option name="LAST_COMMIT_MESSAGE" value="Add initial implementation of various classes and interfaces for problem solving" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
